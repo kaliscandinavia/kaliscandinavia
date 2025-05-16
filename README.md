@@ -3,13 +3,10 @@
 
 <a target="_blank" href="https://x.com/kaliscandinavia"><img src="https://img.shields.io/badge/-X (Twitter)-000?style=for-the-badge&logo=x&logoColor=fff" alt="X Badge"></a>
 <a target="_blank" href="mailto: kaliscandinavia@duck.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=duckmail&logoColor=white" alt="Mail Badge"></a>
-- 🔭 I do make-demos & funny~powerfull
-      JS & CSS code with either 
-      demo-link or test-button(s),
-     and some oter scripts.
+- 🔭 I make funny JS & CSS code with demo- link or test-button(s)
 - 🌱 I also do;server-stuff,and pentesting.
       
-- 👯  <!-- TODO -->
+- 👯  TODO
   
 - 🤠 Fun fact:
      My first data course in 1997;
